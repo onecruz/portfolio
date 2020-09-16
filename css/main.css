@@ -1,0 +1,47 @@
+body {
+	font-family: sans-serif;
+}
+
+.container{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+p {
+	font-size: 14px;
+	line-height: 21px;
+    padding: 0 30px;
+}
+
+header nav {
+	float: right;
+	padding: 46px 0;
+}
+header nav ul {
+	margin: 0;
+	padding: 0;
+}
+header nav ul li {
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 14px;
+	padding: 0 10px;
+	display: inline;
+}
+header nav ul li a {
+	text-decoration: none;
+	color:#d354009a;
+}
+
+.top-section,
+.bottom-section {
+	margin: 0 auto;
+	clear: both;
+}
+
+.center {
+	display: block;
+	margin: 0 auto;
+
+}
+
